@@ -1,4 +1,4 @@
-# frontend-kuraz
+# Frontend-kuraz
 # Task Manager App
 
 A simple task manager built with **React** and **Tailwind CSS**. Users can **add**, **delete**, **mark tasks as completed**, and **filter** tasks.
